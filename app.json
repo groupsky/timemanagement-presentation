@@ -1,0 +1,6 @@
+{
+  "name": "Time Management Presentation",
+  "description": "Time Management Presentation",
+  "repository": "https://github.com/groupsky/timemanagement-presentation",
+  "keywords": ["node", "reveal.js", "socket.io", "presentation"]
+}

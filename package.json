@@ -1,0 +1,21 @@
+{
+  "name": "timemanagement-presentation",
+  "version": "0.0.0",
+  "description": "Time Management presentation",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "node-static": "~0.6.6",
+    "socket.io": "~0.9.13"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/groupsky/timemanagement-presentation.git"
+  },
+  "keywords": ["node", "reveal.js", "socket.io", "presentation"],
+  "author": "Geno Roupsky",
+  "license": "MIT"
+}
